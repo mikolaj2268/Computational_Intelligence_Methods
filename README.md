@@ -1,77 +1,66 @@
 # Computational Intelligence Methods
 
-Zbiór implementacji różnych metod inteligencji obliczeniowej.
+A collection of implementations of various computational intelligence methods.
 
-## Spis treści
+## Table of Contents
 
-- [Opis](#opis)
-- [Funkcjonalności](#funkcjonalności)
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Użycie](#użycie)
-- [Przykłady](#przykłady)
-- [Licencja](#licencja)
-- [Kontakt](#kontakt)
+- [Description](#description)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [License](#license)
+- [Contact](#contact)
 
-## Opis
+## Description
 
-Ten projekt zawiera implementacje różnych metod i algorytmów inteligencji obliczeniowej,
-takich jak algorytmy genetyczne, sieci neuronowe, systemy rozmyte i wiele innych.
-Celem jest dostarczenie narzędzi do analizy i rozwiązywania złożonych problemów
-za pomocą nowoczesnych technik sztucznej inteligencji.
+This project contains implementations of various computational intelligence methods and algorithms,
+such as genetic algorithms, neural networks, fuzzy systems, and many others.
+The goal is to provide tools for analyzing and solving complex problems
+using modern artificial intelligence techniques.
 
-## Funkcjonalności
+## Features
 
-- Implementacje algorytmów genetycznych
-- Sieci neuronowe i głębokie uczenie
-- Systemy rozmyte
-- Optymalizacja rojem cząstek
-- Drzewa decyzyjne i lasy losowe
-- Przykładowe zastosowania w różnych dziedzinach
+- Implementations of genetic algorithms
+- Neural networks and deep learning
+- Fuzzy systems
+- Particle swarm optimization
+- Decision trees and random forests
+- Sample applications in various fields
 
-## Wymagania
+## Requirements
 
-- Python 3.7 lub nowszy
-- Biblioteki wymienione w `requirements.txt`
+- Python 3.7 or newer
+- Libraries listed in `requirements.txt`
 
-## Instalacja
+## Installation
 
-1. Sklonuj repozytorium:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/mikolaj2268/Computational_Intelligence_Methods.git
    ```
 
-2. Przejdź do katalogu projektu:
+2. Navigate to the project directory:
 
    ```bash
    cd Computational_Intelligence_Methods
    ```
 
-3. Zainstaluj wymagane biblioteki:
+3. Install the required libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-## Użycie
+## Usage
 
-Instrukcje dotyczące uruchamiania poszczególnych skryptów znajdują się w odpowiednich katalogach.
-Każdy moduł zawiera plik README z opisem działania i przykładami użycia.
+Instructions for running individual scripts can be found in the respective directories.
+Each module contains a README file with a description of its operation and usage examples.
 
-## Przykłady
+## Examples
 
-Przykładowe zastosowania można znaleźć w katalogu `examples`.
-Znajdują się tam gotowe skrypty demonstracyjne pokazujące,
-jak korzystać z zaimplementowanych metod.
-
-
-## Licencja
-
-Ten projekt jest licencjonowany na warunkach licencji MIT - szczegóły w pliku [LICENSE](LICENSE).
-
-## Kontakt
-
-Jeśli masz pytania lub sugestie, skontaktuj się ze mną:
-
-- **Autor**: Mikołaj [GitHub](https://github.com/mikolaj2268)
+Sample applications can be found in the `examples` directory.
+There you will find ready-to-run demonstration scripts showing
+how to use the implemented methods.
