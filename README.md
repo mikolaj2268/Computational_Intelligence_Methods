@@ -10,8 +10,6 @@ A collection of implementations of various computational intelligence methods.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
